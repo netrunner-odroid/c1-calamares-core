@@ -4,10 +4,10 @@ componentName:  netrunner-core
 strings:
     productName:         Netrunner Core
     shortProductName:    Core
-    version:             17.10.0-dev
-    shortVersion:        17.10
+    version:             19.01.0-dev
+    shortVersion:        19.01
     versionedName:       Netrunner Core
-    shortVersionedName:  Netrunner Core 17.10
+    shortVersionedName:  Netrunner Core 19.01
     bootloaderEntryName: Netrunner Core
 
 images:
