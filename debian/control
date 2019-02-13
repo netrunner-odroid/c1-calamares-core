@@ -9,7 +9,7 @@ Homepage: https://github.com/netrunner-odroid/c1-calamares-core
 Package: c1-calamares-core
 Architecture: armhf
 Depends: calamares
-Description: distribution-independent installer framework
- distribution-independent installer framework.
+Description: distribution-independent installer framework configuration
+ distribution-independent installer framework configuration.
  .
  This package contains the c1-calamares-core settings and branding for Netrunner Debian Core.
